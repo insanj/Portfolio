@@ -1,9 +1,7 @@
 Portolio
 =======================
 
-Welcome to my informal design portfolio. This should be a host of nearly all of my worthwhile designs for iOS and other platforms. All of this work is licensed under Creative Commons Attribution-NonCommercial, or their respective product's license. If you're unsure, follow the rights below before all else.
-
-**[The full portfolio lives in this repository's GitHub page!](http://insanj.github.io/Portfolio)**
+Welcome to my informal design portfolio. This should be a host of nearly all of my worthwhile designs for iOS and other platforms. All of this work is licensed under Creative Commons Attribution-NonCommercial, or their respective product's license. If you're unsure, follow the rights below before all else. Most of the icons are post-formatted for iOS 7, and appear boxed here. [I'm always available for work of partnership offers](mailto:me@insanj.com).
 
 ---------------------------------------	
 [Creative Commons Attribution-NonCommercial 3.0 United States License](http://creativecommons.org/licenses/by-nc/3.0/us/) as of 2014:
